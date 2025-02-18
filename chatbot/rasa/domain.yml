@@ -1,0 +1,70 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - thanks
+  - mood_great
+  - ask_opening_hours
+  - check_open_at
+  - ask_menu
+  - place_order
+  - nlu_fallback 
+
+entities:
+  - time
+  - day
+  - dish
+  - quantity
+
+actions:
+  - action_check_open
+  - action_opening_hours
+  - action_show_menu
+  - action_process_order
+
+slots:
+  time:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: time
+  day:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: day
+  dish:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: dish
+  quantity:
+    type: float
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: quantity
+
+responses:
+  utter_greet:
+  - text: "Hi there! 🍴 Welcome to Restaurant. How can I assist you today?"
+  - text: "Hello! Ready to explore our menu or place an order? Let's get started!"
+
+  utter_happy:
+  - text: "Wonderful! Enjoy your meal, and don't hesitate to ask if you need help. 🎉"
+  - text: "Awesome! Let me know if there's anything else I can do for you."
+
+  utter_goodbye:
+  - text: "Goodbye! We hope to serve you again soon. Have a great day! 🌟"
+  - text: "See you later! Don't forget to try our Pizza next time. 👋"
+
+  utter_ask_rephrase:
+  - text: "I'm sorry, I didn't quite understand that. Could you rephrase your request?"
+  - text: "I didn't get that.  Could you try saying it a different way?"
+
+  utter_thanks:
+  - text: "You're welcome! Feel free to reach out anytime. 😊"

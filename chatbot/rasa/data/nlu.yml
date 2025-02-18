@@ -1,0 +1,204 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+    - welcome
+    - good morning
+    - good afternoon
+    - good evening
+    - hey there
+    - what's up?
+    - how are you?
+    - nice to meet you
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you later
+    - take care
+    - have a good day
+    - good night
+    - bye bye
+    - see you soon
+    - talk to you later
+    - catch you later
+    - later
+
+- intent: thanks
+  examples: |
+    - Thanks
+    - Thank you
+    - Thank you!
+    - Thanks a lot
+    - Appreciate it
+    - Many thanks
+    - Cheers
+    - That's very helpful, thanks
+    - Thx
+    - Thank you very much
+
+- intent: mood_great
+  examples: |
+    - great
+    - I'm great
+    - doing awesome
+    - feeling good
+    - very well
+    - perfect
+    - couldn't be better
+    - so happy
+    - excellent
+    - all good
+    - fantastic
+    - amazing
+    - wonderful
+    - so so good
+
+- intent: ask_opening_hours
+  examples: |
+    - What time does the restaurant open?
+    - What are your opening hours?
+    - When does the restaurant close today?
+    - Can you share your daily operating hours?
+    - What time do you start serving?
+    - When does the restaurant shut down?
+    - What's your opening schedule?
+    - Are you open all day?
+    - When do the kitchen hours begin?
+    - What are your business hours?
+
+- intent: check_open_at
+  examples: |
+    - Is the restaurant open at [4 PM](time)?
+    - Are you still open until [11 PM](time)?
+    - Can I visit at [10 AM](time) on [Wednesday](day)?
+    - Will you be open at [8:30 PM](time) tomorrow?
+    - Are you serving dinner at [7 PM](time)?
+    - Is the restaurant open for lunch at [12 PM](time)?
+    - Do you open at [7 AM](time) on [weekends](day)?
+    - Are you still operating at [4:30 PM](time)?
+    - What time do you close? Are you open at [2 PM](time)?
+    - Is the restaurant open on [Friday](day) at [3 PM](time)?
+    - Can I dine here on [Thursday](day) at [5 PM](time)?
+    - Will you be open at [10 AM](time) this [Sunday](day)?
+    - What are your hours on [Tuesday](day) at [6 PM](time)?
+    - Is the restaurant available on [Monday](day) at [9 PM](time)?
+    - Can I eat here at [1 PM](time) on [Saturday](day)?
+    - Are you open at [8 PM](time) this [Wednesday](day)?
+    - Is the restaurant open [today](day) at [noon](time)?
+    - Are guests allowed in at [10:30 PM](time) on [Friday](day)?
+    - Is the restaurant operating at [midnight](time) on [Saturday](day)?
+
+- lookup: time
+  examples: |
+    - 1 AM
+    - 2 AM
+    - 1 PM
+    - 2 PM
+    - 6 AM
+    - 9 PM
+    - 13:00
+    - 14:30
+    - 17:00
+    - 21:00 
+
+- lookup: day
+  examples: |
+    - monday
+    - tuesday
+    - wednesday
+    - thursday
+    - friday
+    - saturday
+    - sunday
+    - today
+    - tomorrow
+    - weekends
+    - weekdays
+
+- intent: ask_menu
+  examples: |
+    - Can I see the menu?
+    - What's on the menu?
+    - Do you have a menu?
+    - Show me the menu
+    - What food do you serve?
+    - What's available to order?
+    - What dishes do you have?
+    - Can I get a menu?
+    - Menu please
+    - What are today's options?
+    - What's on the menu?
+
+- intent: place_order
+  examples: |
+    - I would like to order a [lasagne](dish)
+    - I'll have a [hot-dog](dish)
+    - Give me a [cheeseburger](dish)
+    - I'd like a [spaghetti](dish)
+    - I want a [pizza](dish)
+    - I'll take a [pizza](dish)
+    - Order a [burger](dish)
+    - i want a [burger](dish)
+    - can i get a [tiramisu](dish)
+    - get me a [burger](dish) now
+    - I want a [lasagne](dish)
+    - I need a [pizza](dish)
+    - a [pizza](dish) please
+    - [pizza](dish)
+    - [spaghetti](dish)
+    - [burger](dish)
+    - [lasagne](dish)
+    - [hot-dog](dish)
+    - [tiramisu](dish)
+    - a [burger](dish)
+    - the [burger](dish)
+    - [2](quantity) [pizza](dish)
+    - [5](quantity) [spaghetti](dish)
+    - [3](quantity) [hot-dog](dish)
+    - I want [2](quantity) [burger](dish)
+    - I'd like [3](quantity) [spaghetti](dish) dishes
+    - Can I get [4](quantity) [tiramisu](dish)?
+    - Get me [5](quantity) [hot-dog](dish) now
+    - I need [2](quantity) [lasagne](dish) orders
+    - [2](quantity) [pizza](dish) please
+    - Order [3](quantity) [burger](dish)
+    - I'll take [4](quantity) [spaghetti](dish)
+    - Give me [2](quantity) [cheeseburger](dish)
+    - I need [2](quantity) [burger](dish).
+    - I'd like to get [3](quantity) [hot-dog](dish).
+    - We want [4](quantity) [pizza](dish).
+    - Let me order a [burger](dish).
+    - Let me get a [pizza](dish).
+    - I'm ordering a [lasagne](dish).
+    - We are ordering [two](quantity) [hot-dog](dish)
+
+- lookup: dish
+  examples: |
+    - lasagne
+    - pizza
+    - hot-dog
+    - burger
+    - tiramisu
+    - spaghetti
+
+- lookup: quantity
+  examples: |
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8 
+    - 9
+    - 10
+    - 12
+    - 15
+    - 20

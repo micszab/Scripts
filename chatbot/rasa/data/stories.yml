@@ -1,0 +1,93 @@
+version: "3.1"
+
+stories:
+- story: Greet and Express Good Mood
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+  - action: action_restart
+
+- story: Greet and Ask General Opening Hours
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_opening_hours
+  - action: action_opening_hours
+  - action: action_restart
+
+- story: Greet and Check Open at Specific Time
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: check_open_at
+    entities:
+      - time: "6 PM"
+      - day: "Monday"
+  - action: action_check_open
+  - action: action_restart
+
+- story: Greet and Ask for Menu
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_menu
+  - action: action_show_menu
+  - action: action_restart
+
+- story: Greet and Place Simple Order
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: place_order
+    entities:
+      - dish: "pizza"
+      - quantity: 1
+  - action: action_process_order
+  - action: action_restart
+
+- story: Place Order Directly
+  steps:
+  - intent: place_order
+    entities:
+      - dish: "burger"
+      - quantity: 2
+  - action: action_process_order
+  - action: action_restart
+
+- story: Ask for Menu and Then Order
+  steps:
+  - intent: ask_menu
+  - action: action_show_menu
+  - intent: place_order
+    entities:
+      - dish: "lasagne"
+      - quantity: 1
+  - action: action_process_order
+  - action: action_restart
+
+- story: Check Opening Hours and Then Order
+  steps:
+  - intent: ask_opening_hours
+  - action: action_opening_hours
+  - intent: place_order
+    entities:
+      - dish: "hot-dog"
+      - quantity: 3
+  - action: action_process_order
+  - action: action_restart
+
+- story: Check Specific Opening Time and Then Order
+  steps:
+    - intent: check_open_at
+      entities:
+        - time: "8 PM"
+        - day: "Friday"
+    - action: action_check_open
+    - intent: place_order
+      entities:
+        - dish: "spaghetti"
+        - quantity: 1
+    - action: action_process_order
+    - action: action_restart
