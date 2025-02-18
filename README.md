@@ -1,5 +1,5 @@
 /chatbot - Python. Czatbot\
-  ...
+  Chatbot needs to confirm when the meal will be available as a pick-up in the restaurant.
   
 /crawler - Ruby. Crawler\
   Dane należy zapisać w bazie danych np. SQLite via Sequel
