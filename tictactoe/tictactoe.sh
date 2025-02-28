@@ -4,7 +4,7 @@ board=(1 2 3 4 5 6 7 8 9)
 player="X"
 computer="O"
 
-print_menu(){
+print_menu() {
     echo ""
     echo "1. New game"
     echo "2. Load game"
@@ -24,27 +24,26 @@ print_board() {
 
 save_game() {
     echo "Save current status to: "; read -r save_file
-    echo "${board[@]}" > $save_file
-    echo "$player" >> $save_file
+    echo "${board[@]}" > "$save_file"
+    echo "$player" >> "$save_file"
     echo "Game saved to $save_file"
 }
 
 load_game() {
     echo "Enter save file name: "; read -r save_file
-    if [[ -f $save_file ]]; then
-        read -a board < $save_file
+    if [[ -f "$save_file" ]]; then
+        read -a board < "$save_file"
         player=$(tail -n 1 "$save_file")
-        echo "$player"
         board=("${board[@]:0:9}")
         echo "Game loaded"
     else
-        echo "File is not existing"
+        echo "File does not exist"
     fi
 }
 
 check_draw() {
     for field in "${board[@]}"; do
-        if [[ "$field" != "X" && "$fied" != "O" ]]; then
+        if [[ "$field" != "X" && "$field" != "O" ]]; then
             return 1
         fi
     done
@@ -58,9 +57,8 @@ check_win() {
     
     for set in "${sets[@]}"; do
         local i=($set)
-        if [[ "${b[${i[0]}]}" == "${b[${i[1]}]}" ]] && \
-        [[ "${b[${i[1]}]}" == "${b[${i[2]}]}" ]]; then
-            echo "${b[${i[0]}]} win!"
+        if [[ "${b[${i[0]}]}" == "${b[${i[1]}]}" && "${b[${i[1]}]}" == "${b[${i[2]}]}" ]]; then
+            echo "${b[${i[0]}]} wins!"
             return 0
         fi
     done
@@ -71,8 +69,8 @@ computer_move() {
     local move
     while :; do
         move=$((RANDOM % 9))
-        if [[ "${board[$move]}" != "X"]] && [["${board[$move]}" != "O" ]]; then
-            board[$move]=$computer
+        if [[ "${board[$move]}" != "X" && "${board[$move]}" != "O" ]]; then
+            board[$move]="$computer"
             break
         fi
     done
@@ -82,17 +80,16 @@ play_game() {
     print_board
     while :; do
         if [[ "$player" == "X" ]]; then
-            echo "Your turn press (1-9) or 'S' to save game:"
+            echo "Your turn (1-9) or 'S' to save game:"
             read -r move
-            if [[ "$move" == "s" ]]; then
+            if [[ "$move" == "s" || "$move" == "S" ]]; then
                 save_game
                 continue
             elif [[ "$move" =~ ^[1-9]$ ]] && \
-                [[ "${board[$((move-1))]}" != "X" ]] && \
-                [[ "${board[$((move-1))]}" != "O" ]]; then
-                board[$((move-1))]=$player
+                [[ "${board[$((move-1))]}" != "X" && "${board[$((move-1))]}" != "O" ]]; then
+                board[$((move-1))]="$player"
             else
-                echo "Incorrect movement!"
+                echo "Invalid move!"
                 continue
             fi
         else
@@ -109,19 +106,21 @@ play_game() {
         fi
 
         if [[ "$player" == "X" ]]; then
-            player=$computer
+            player="$computer"
         else
             player="X"
         fi
     done
 }
 
-main(){
+main() {
     while :; do
         print_menu
         read -r choice
         case $choice in
             1)
+                board=(1 2 3 4 5 6 7 8 9)
+                player="X"
                 play_game
                 ;;
             2)
@@ -129,10 +128,10 @@ main(){
                 play_game
                 ;;
             3)
-                break
+                exit 0
                 ;;
             *)
-                echo "Incorrect choice!"
+                echo "Invalid choice!"
                 ;;
         esac
     done
