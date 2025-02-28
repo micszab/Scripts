@@ -1,0 +1,892 @@
+Skipping: Likely an ad or promotional link -> https://www.amazon.com/sspa/click
+Skipping invalid product: "KUU Laptop Computer,Traditional laptops,AMD Ryzen R3 3200U, up to 3.5 GHz,16GB DDR4, 512GB SSD,AMD Radeon Graphics, FHD 1920 * 1080 Display,WiFi 5,BT5.1," - URL: "https://www.amazon.com/sspa/click"
+Skipping: Likely an ad or promotional link -> https://www.amazon.com/sspa/click
+Skipping invalid product: "Mini PC N100 Intel 12th Mini Computers Windows 11 Pro 16GB DDR4 RAM 512GB PCIe x1 SSD, 4K 60HZ Triple Displays by Dual HDMI+Type-C, 6W TDP Quiet Mini PC, WIFI5, BT 5.0 Office" - URL: "https://www.amazon.com/sspa/click"
+Skipping: Missing data -> Title: "Acer Aspire C24-1700-UA91 AIO Desktop | 23.8\" Full HD IPS Display | 12th Gen Intel Core i3-1215U | Intel UHD Graphics | 8GB DDR4 | 512GB NVMe M.2 SSD | Intel Wireless Wi-Fi 6 | Windows 11 Home,Black", Price: nil, URL: "https://www.amazon.com/Acer-C24-1700-UA91-i3-1215U-Graphics-Wireless/dp/B0B2KVQJM8/ref=sr_1_9"
+Skipping invalid product: "Acer Aspire C24-1700-UA91 AIO Desktop | 23.8\" Full HD IPS Display | 12th Gen Intel Core i3-1215U | Intel UHD Graphics | 8GB DDR4 | 512GB NVMe M.2 SSD | Intel Wireless Wi-Fi 6 | Windows 11 Home,Black" - URL: "https://www.amazon.com/Acer-C24-1700-UA91-i3-1215U-Graphics-Wireless/dp/B0B2KVQJM8/ref=sr_1_9"
+Skipping: Likely an ad or promotional link -> https://www.amazon.com/sspa/click
+Skipping invalid product: "KAMRUI Essenx E1 Mini PC, Mini Computer Intel Twin Lake- N150 up to 3.6 GHz(Beat N100), Min Desktop Computer 8GB DDR4 256GB M.2 SSD, Small PC Desktop 2.4G/ 5.0G WiFi, BT, 4K, Business, Home, Office" - URL: "https://www.amazon.com/sspa/click"
+Skipping: Missing data -> Title: "Dell Optiplex 7070 Desktop Computer | Hexa Core Intel i5 (3.2) | 16GB DDR4 RAM | 500GB SSD Solid State | Windows 11 Professional | Home or Office PC, Black (Renewed)", Price: nil, URL: "https://www.amazon.com/Dell-Optiplex-7070-Computer-Professional/dp/B0BYB6NPDN/ref=sr_1_15"
+Skipping invalid product: "Dell Optiplex 7070 Desktop Computer | Hexa Core Intel i5 (3.2) | 16GB DDR4 RAM | 500GB SSD Solid State | Windows 11 Professional | Home or Office PC, Black (Renewed)" - URL: "https://www.amazon.com/Dell-Optiplex-7070-Computer-Professional/dp/B0BYB6NPDN/ref=sr_1_15"
+Skipping: Missing data -> Title: "Acer Aspire XC-830-UA91 Desktop | Intel Celeron J4125 Quad-Core Processor (Up to 2.7GHz) | 8GB 2400MHz DDR4 | 256GB NVMe M.2 SSD | 8X DVD | Wi-Fi 5 | Bluetooth 4.2 LE | Windows 10 Home", Price: nil, URL: "https://www.amazon.com/Acer-XC-830-UA91-Quad-Core-Processor-Bluetooth/dp/B0983XZJSZ/ref=sr_1_16"
+Skipping invalid product: "Acer Aspire XC-830-UA91 Desktop | Intel Celeron J4125 Quad-Core Processor (Up to 2.7GHz) | 8GB 2400MHz DDR4 | 256GB NVMe M.2 SSD | 8X DVD | Wi-Fi 5 | Bluetooth 4.2 LE | Windows 10 Home" - URL: "https://www.amazon.com/Acer-XC-830-UA91-Quad-Core-Processor-Bluetooth/dp/B0983XZJSZ/ref=sr_1_16"
+Skipping: Likely an ad or promotional link -> https://www.amazon.com/sspa/click
+Skipping invalid product: "14 Inch Laptop Computer, 8GB RAM 256GB SSD, Intel Celeron N4020C Processors(up to 2.8GHz), Windows 11 Pro Laptop, FHD 1920 x 1080, Work and Students laptops, Light&Thin 180 Angle Opening" - URL: "https://www.amazon.com/sspa/click"
+Skipping: Likely an ad or promotional link -> https://www.amazon.com/sspa/click
+Skipping invalid product: "HBESTORE Laptop 15.6 Inch16GB RAM 512GB SSD,Windwos11 OS with Intel N5105 Quad Core Processor Up to2.9GHz 2.4G/5G WiFi+Mini HDMI+Backlit Keyboard+USB-C Notebook Computer. (Gray)." - URL: "https://www.amazon.com/sspa/click"
+Skipping: Likely an ad or promotional link -> https://www.amazon.com/sspa/click
+Skipping invalid product: "15.6'' Laptop Computer, N4000 Processor Laptops with 8GB RAM, 256GB SSD,15.6 inch FHD 1920 * 1080 Display, WIFI5, BT4.2, Windows 11 Pro" - URL: "https://www.amazon.com/sspa/click"
+Product data has been saved to the SQLite database.
+
+Products saved in the database:
+
+1. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+2. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+3. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+4. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+5. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+6. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+7. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+8. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+9. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+10. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+11. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+12. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+13. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+14. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+15. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+16. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+17. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+18. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+19. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+20. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+21. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+22. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+23. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+24. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+25. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+26. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+27. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+28. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+29. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+30. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+31. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+32. [34mAcer Nitro 50 N50-656-UR12 Gaming | | |[0m
+    Info: Desktop Intel Core i5-14400F 10-Core Processor NVIDIA GeForce RTX 3050 16GB DDR5 5600MHz | 1TB PCIe Gen 4 SSD | Intel Wi-Fi 6E AX211 | Windows 11 Home
+    Price: 699.99 USD
+    URL: https://www.amazon.com/N50-656-UR12-Desktop-i5-14400F-10-Core-Processor/dp/B0CPK...
+-------------------------------------------------------------------------------------------
+33. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+34. [34mjumper Laptop Computer 16 Inch, Office[0m
+    Info: 365, Laptops with 16GB RAM, 1152GB Storage, FHD IPS 1920x1200 Display, 12th N95 CPU(Up to 3.4GHz), 38WH Battery, 2 Speakers, Mini HDMI, 16:10.
+    Price: 1299.99 USD
+    URL: https://www.amazon.com/jumper-Computer-Laptops-1920x1200-Speakers/dp/B0DSJ4T3WX/...
+-------------------------------------------------------------------------------------------
+35. [34mNIMO 15.6 FHD Student Laptop, 16GB RAM,[0m
+    Info: 1TB SSD, Backlit Keyboard, Fingerprint, Intel Pentium Quad-Core N100 (Beat to i3-1115G4, Up to 3.4GHz), IPS Computer, Numpad, WiFi 6, Win 11, Rose Gold
+    Price: 399.99 USD
+    URL: https://www.amazon.com/NIMO-i3-1115G4-Keyboard-Fingerprint-Warranty/dp/B0D44YZQB...
+-------------------------------------------------------------------------------------------
+36. [34mASUS Chromebook CX1, 14" FHD, Intel®[0m
+    Info: Celeron N4500 Processor, 64GB Storage, 4GB RAM, ChromeOS, Transparent Silver, CX1400CKA-AS44F
+    Price: 140.7 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1400CKA-AS88F/dp/...
+-------------------------------------------------------------------------------------------
+37. [34mjumper Laptop, Office 365, N95 CPU(Up 2[0m
+    Info: to 3.4GHz), 16GB RAM 1152GB Storage, Laptop Computer with 16 Inch FHD IPS Display(1920x1200), 38WH Battery, 2.4G+5G WiFi, BT4.0, Speakers, Numeric Keypad.
+    Price: 1299.99 USD
+    URL: https://www.amazon.com/jumper-Storage-Computer-1920x1200-Speakers/dp/B0DSJ6FYRG/...
+-------------------------------------------------------------------------------------------
+38. [34mGaming Laptop, 2025 Laptop with Intel[0m
+    Info: Quad-Core Processor(Up to 3.6GHz), 16GB DDR4 512GB SSD Laptop Computer, Windows 11 Laptop, 15.6" IPS 1080P, Metal Shell, USB3.2, Long Battery Life
+    Price: 379.99 USD
+    URL: https://www.amazon.com/KAIGERR-Quad-Core-Processor-Computer-Windows/dp/B0DR86VZL...
+-------------------------------------------------------------------------------------------
+39. [34mAcer Aspire 3 A315-24P-R7VH Slim Laptop[0m
+    Info: | 15.6" Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode
+    Price: 299.99 USD
+    URL: https://www.amazon.com/A315-24P-R7VH-Display-Quad-Core-Processor-Graphics/dp/B0B...
+-------------------------------------------------------------------------------------------
+40. [34m15.6 inch Laptop, Thin and Light N4000[0m
+    Info: Laptop, Processor, 8GB RAM 256GB SSD, FHD Screen Resolution 1920 * 1080P, WIFI5 BT4.2 HDMI Laptop, Office Laptop, Study Laptop
+    Price: 239.99 USD
+    URL: https://www.amazon.com/NAIKLULU-Laptop-Processor-Screen-Resolution/dp/B0DPFDTPHQ...
+-------------------------------------------------------------------------------------------
+41. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+42. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+43. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+44. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+45. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+46. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+47. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+48. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+49. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+50. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+51. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+52. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+53. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+54. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+55. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+56. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+57. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+58. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+59. [34mAcer Nitro 50 N50-656-UR12 Gaming | | |[0m
+    Info: Desktop Intel Core i5-14400F 10-Core Processor NVIDIA GeForce RTX 3050 16GB DDR5 5600MHz | 1TB PCIe Gen 4 SSD | Intel Wi-Fi 6E AX211 | Windows 11 Home
+    Price: 699.99 USD
+    URL: https://www.amazon.com/N50-656-UR12-Desktop-i5-14400F-10-Core-Processor/dp/B0CPK...
+-------------------------------------------------------------------------------------------
+60. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+61. [34mjumper Laptop Computer 16 Inch, Office[0m
+    Info: 365, Laptops with 16GB RAM, 1152GB Storage, FHD IPS 1920x1200 Display, 12th N95 CPU(Up to 3.4GHz), 38WH Battery, 2 Speakers, Mini HDMI, 16:10.
+    Price: 1299.99 USD
+    URL: https://www.amazon.com/jumper-Computer-Laptops-1920x1200-Speakers/dp/B0DSJ4T3WX/...
+-------------------------------------------------------------------------------------------
+62. [34mNIMO 15.6 FHD Student Laptop, 16GB RAM,[0m
+    Info: 1TB SSD, Backlit Keyboard, Fingerprint, Intel Pentium Quad-Core N100 (Beat to i3-1115G4, Up to 3.4GHz), IPS Computer, Numpad, WiFi 6, Win 11, Rose Gold
+    Price: 399.99 USD
+    URL: https://www.amazon.com/NIMO-i3-1115G4-Keyboard-Fingerprint-Warranty/dp/B0D44YZQB...
+-------------------------------------------------------------------------------------------
+63. [34mASUS Chromebook CX1, 14" FHD, Intel®[0m
+    Info: Celeron N4500 Processor, 64GB Storage, 4GB RAM, ChromeOS, Transparent Silver, CX1400CKA-AS44F
+    Price: 140.7 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1400CKA-AS88F/dp/...
+-------------------------------------------------------------------------------------------
+64. [34mjumper Laptop, Office 365, N95 CPU(Up 2[0m
+    Info: to 3.4GHz), 16GB RAM 1152GB Storage, Laptop Computer with 16 Inch FHD IPS Display(1920x1200), 38WH Battery, 2.4G+5G WiFi, BT4.0, Speakers, Numeric Keypad.
+    Price: 1299.99 USD
+    URL: https://www.amazon.com/jumper-Storage-Computer-1920x1200-Speakers/dp/B0DSJ6FYRG/...
+-------------------------------------------------------------------------------------------
+65. [34mGaming Laptop, 2025 Laptop with Intel[0m
+    Info: Quad-Core Processor(Up to 3.6GHz), 16GB DDR4 512GB SSD Laptop Computer, Windows 11 Laptop, 15.6" IPS 1080P, Metal Shell, USB3.2, Long Battery Life
+    Price: 379.99 USD
+    URL: https://www.amazon.com/KAIGERR-Quad-Core-Processor-Computer-Windows/dp/B0DR86VZL...
+-------------------------------------------------------------------------------------------
+66. [34mAcer Aspire 3 A315-24P-R7VH Slim Laptop[0m
+    Info: | 15.6" Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode
+    Price: 299.99 USD
+    URL: https://www.amazon.com/A315-24P-R7VH-Display-Quad-Core-Processor-Graphics/dp/B0B...
+-------------------------------------------------------------------------------------------
+67. [34m15.6 inch Laptop, Thin and Light N4000[0m
+    Info: Laptop, Processor, 8GB RAM 256GB SSD, FHD Screen Resolution 1920 * 1080P, WIFI5 BT4.2 HDMI Laptop, Office Laptop, Study Laptop
+    Price: 239.99 USD
+    URL: https://www.amazon.com/NAIKLULU-Laptop-Processor-Screen-Resolution/dp/B0DPFDTPHQ...
+-------------------------------------------------------------------------------------------
+68. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+69. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+70. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+71. [34mAll-in-One Computer 21.5 FHD Display PC[0m
+    Info: Intel G5905 3.50 GHz 16G RAM 240G SSD Intel UHD Graphics 610 Office AIO Business Desktop
+    Price: 299.99 USD
+    URL: https://www.amazon.com/suevery-Computer-Display-Graphics-Business/dp/B0DM1TCVNP/...
+-------------------------------------------------------------------------------------------
+72. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+73. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+74. [34mCore Innovations 24" All-in-One Desktop[0m
+    Info: PC with Windows 11
+    Price: 295.8 USD
+    URL: https://www.amazon.com/Core-Innovations-All-Desktop-Windows/dp/B0CZGKT588/ref=sr...
+-------------------------------------------------------------------------------------------
+75. [34m23.8 inch All-in-One Desktop PC, FHD &[0m
+    Info: Display, 16GB RAM, 512GB SSD, Intel N5095 Processor, WiFi 2.4/5.0Ghz Bluetooth 4.2, Windows 11, Random Color Mouse and Keyboard (16+512 Wired kit)
+    Price: 399.0 USD
+    URL: https://www.amazon.com/Processor-Bluetooth-16-512-kit/dp/B0DPMRDJC6/ref=sr_1_11
+-------------------------------------------------------------------------------------------
+76. [34mK5 PRO 3X10g 30g Viscous Thermal Paste[0m
+    Info: for Thermal Pad Replacement Liquid Thermal Pad Putty Compatible with Apple iMac, Asus ROG, Acer Nitro, MSI laptops, RTX 3080, 3090, PS4, Nintendo Switch, Xbox
+    Price: 25.99 USD
+    URL: https://www.amazon.com/Computer-Systems-Viscous-Thermal-Replacement-iPhone/dp/B0...
+-------------------------------------------------------------------------------------------
+77. [34mSTGSivir All in One Desktop Computer, &[0m
+    Info: 24" FHD Display, Intel Core i7 up to 3.9GHz, 16G Memory, 512G SSD, WiFi 5, Bluetooth, RGB Keyboard Mouse & Mouse Pad, Webcam, Windows 10 Home
+    Price: 399.99 USD
+    URL: https://www.amazon.com/STGSivir-Desktop-Computer-Bluetooth-Keyboard/dp/B0DCP92GL...
+-------------------------------------------------------------------------------------------
+78. [34m23.8" Full HD All-in-One Desktop - 13th[0m
+    Info: Computer Intel Gen - Windows 11, 8GB RAM, 256GB SSD, Dual-Band WiFi, HDMI, USB 3.0, FHD IPS Display - AIO PC with Wireless Keyboard, Mouse, 2MP Camera
+    Price: 449.99 USD
+    URL: https://www.amazon.com/23-8-Full-All-Desktop-Computer/dp/B0DLHPKY8B/ref=sr_1_15
+-------------------------------------------------------------------------------------------
+79. [34mKomputer silnika pokładzie ECU ciała[0m
+    Info: komputer pokładowy EDC17 jednostka sterująca pojazdu 0281020460 dla for Bosch
+    Price: 486.9 USD
+    URL: https://www.amazon.com/pokladzie-pokladowy-jednostka-steruj%C4%85ca-0281020460/d...
+-------------------------------------------------------------------------------------------
+80. [34mK5 PRO 400g Viscous Thermal Paste for[0m
+    Info: Thermal Pad Replacement Liquid Pad Putty Compatible with Apple iMac, Asus ROG, Acer Nitro, MSI laptops, RTX 3080, 3090, PS4, Nintendo Switch, Xbox, CSGR
+    Price: 144.99 USD
+    URL: https://www.amazon.com/Viscous-Thermal-Replacement-Compatible-Nintendo/dp/B074QJ...
+-------------------------------------------------------------------------------------------
+81. [34m24" FHD All-in-One Desktop Computer, &[0m
+    Info: N5095 8GB RAM, 512GB SSD, Quad-Core, Wired Keyboard Mouse, RGB Speaker, White (N5095/8G/512G)
+    Price: 316.99 USD
+    URL: https://www.amazon.com/SIUGHVA-Desktop-Computer-Quad-Core-Keyboard/dp/B0CSPT4JFL...
+-------------------------------------------------------------------------------------------
+82. [34mWiring Connecting Terminals - 5 Buah[0m
+    Info: 30595 HSSOP36 untuk Chip Drive Daya Papan Komputer Mesin Mobil
+    Price: 26.26 USD
+    URL: https://www.amazon.com/Wiring-Connecting-Terminals-HSSOP36-Komputer/dp/B0DMJD3BN...
+-------------------------------------------------------------------------------------------
+83. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+84. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+85. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+86. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+87. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+88. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+89. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+90. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+91. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+92. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+93. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+94. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+95. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+96. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+97. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+98. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+99. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+100. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+101. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+102. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+103. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+104. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+105. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+106. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+107. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+108. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+109. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+110. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+111. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+112. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+113. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+114. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+115. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+116. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+117. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+118. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+119. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+120. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+121. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+122. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+123. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+124. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+125. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+126. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+127. [34mAcer Nitro 50 N50-656-UR12 Gaming | | |[0m
+    Info: Desktop Intel Core i5-14400F 10-Core Processor NVIDIA GeForce RTX 3050 16GB DDR5 5600MHz | 1TB PCIe Gen 4 SSD | Intel Wi-Fi 6E AX211 | Windows 11 Home
+    Price: 699.99 USD
+    URL: https://www.amazon.com/N50-656-UR12-Desktop-i5-14400F-10-Core-Processor/dp/B0CPK...
+-------------------------------------------------------------------------------------------
+128. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+129. [34mjumper Laptop Computer 16 Inch, Office[0m
+    Info: 365, Laptops with 16GB RAM, 1152GB Storage, FHD IPS 1920x1200 Display, 12th N95 CPU(Up to 3.4GHz), 38WH Battery, 2 Speakers, Mini HDMI, 16:10.
+    Price: 1299.99 USD
+    URL: https://www.amazon.com/jumper-Computer-Laptops-1920x1200-Speakers/dp/B0DSJ4T3WX/...
+-------------------------------------------------------------------------------------------
+130. [34mNIMO 15.6 FHD Student Laptop, 16GB RAM,[0m
+    Info: 1TB SSD, Backlit Keyboard, Fingerprint, Intel Pentium Quad-Core N100 (Beat to i3-1115G4, Up to 3.4GHz), IPS Computer, Numpad, WiFi 6, Win 11, Rose Gold
+    Price: 399.99 USD
+    URL: https://www.amazon.com/NIMO-i3-1115G4-Keyboard-Fingerprint-Warranty/dp/B0D44YZQB...
+-------------------------------------------------------------------------------------------
+131. [34mASUS Chromebook CX1, 14" FHD, Intel®[0m
+    Info: Celeron N4500 Processor, 64GB Storage, 4GB RAM, ChromeOS, Transparent Silver, CX1400CKA-AS44F
+    Price: 140.7 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1400CKA-AS88F/dp/...
+-------------------------------------------------------------------------------------------
+132. [34mjumper Laptop, Office 365, N95 CPU(Up 2[0m
+    Info: to 3.4GHz), 16GB RAM 1152GB Storage, Laptop Computer with 16 Inch FHD IPS Display(1920x1200), 38WH Battery, 2.4G+5G WiFi, BT4.0, Speakers, Numeric Keypad.
+    Price: 1299.99 USD
+    URL: https://www.amazon.com/jumper-Storage-Computer-1920x1200-Speakers/dp/B0DSJ6FYRG/...
+-------------------------------------------------------------------------------------------
+133. [34mGaming Laptop, 2025 Laptop with Intel[0m
+    Info: Quad-Core Processor(Up to 3.6GHz), 16GB DDR4 512GB SSD Laptop Computer, Windows 11 Laptop, 15.6" IPS 1080P, Metal Shell, USB3.2, Long Battery Life
+    Price: 379.99 USD
+    URL: https://www.amazon.com/KAIGERR-Quad-Core-Processor-Computer-Windows/dp/B0DR86VZL...
+-------------------------------------------------------------------------------------------
+134. [34mAcer Aspire 3 A315-24P-R7VH Slim Laptop[0m
+    Info: | 15.6" Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode
+    Price: 299.99 USD
+    URL: https://www.amazon.com/A315-24P-R7VH-Display-Quad-Core-Processor-Graphics/dp/B0B...
+-------------------------------------------------------------------------------------------
+135. [34m15.6 inch Laptop, Thin and Light N4000[0m
+    Info: Laptop, Processor, 8GB RAM 256GB SSD, FHD Screen Resolution 1920 * 1080P, WIFI5 BT4.2 HDMI Laptop, Office Laptop, Study Laptop
+    Price: 239.99 USD
+    URL: https://www.amazon.com/NAIKLULU-Laptop-Processor-Screen-Resolution/dp/B0DPFDTPHQ...
+-------------------------------------------------------------------------------------------
+136. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+137. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+138. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+139. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+140. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+141. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+142. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+143. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+144. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+145. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+146. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+147. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+148. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+149. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+150. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+151. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+152. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+153. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+154. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+155. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+156. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+157. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+158. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+159. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+160. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+161. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------
+162. [34mDell OptiPlex Desktop RGB Computer PC,[0m
+    Info: Intel Core i7 Quad-Core Processor, 16GB RAM, 512GB SSD, 24 Inch HDMI Monitor, RGB Keyboard Mouse and Headset, WiFi, Windows 10 Pro (Renewed)
+    Price: 287.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Computer-Quad-Core-Processor/dp/B0BLQNXY8B/...
+-------------------------------------------------------------------------------------------
+163. [34mASUS Chromebook CX1, 15.6" FHD NanoEdge[0m
+    Info: Display, Intel Celeron N4500 Processor, 64GB eMMC Storage, 8GB RAM, ChromeOS, Transparent Silver, CX1500CKA-AS84F
+    Price: 189.99 USD
+    URL: https://www.amazon.com/ASUS-Chromebook-Processor-Transparent-CX1500CKA-AS84F/dp/...
+-------------------------------------------------------------------------------------------
+164. [34mDell Optiplex 7050 SFF Desktop PC Intel[0m
+    Info: i7-7700 4-Cores 3.60GHz 32GB DDR4 1TB SSD WiFi BT HDMI Duel Monitor Support Windows 10 Pro Excellent Condition(Renewed)
+    Price: 229.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Desktop-Excellent-Condition/dp/B08X1KKVCZ/r...
+-------------------------------------------------------------------------------------------
+165. [34mDell OptiPlex RGB Desktop Computer PC,[0m
+    Info: Intel Core i7 up to 3.8GHz, 16G RAM, 512G SSD, New 22 inch FHD LED Monitor, RGB Keyboard and Mouse, RGB BT Sound Bar, Webcam, WiFi, BT 5.0, W10P64 (Renewed)
+    Price: 250.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-Desktop-Computer-Keyboard/dp/B0BKZTSKKR/ref...
+-------------------------------------------------------------------------------------------
+166. [34mLenovo Ideapad Laptop 2024 Premium, 14"[0m
+    Info: HD Screen Thin Light, Intel Celeron N4020 (Upto 2.8GHZ), 4GB RAM, 256GB (128GB eMMC+ 128GB Card), WiFi, Webcam, 11+ Hours Battery, Window 11S+HubxcelAccessory
+    Price: 193.98 USD
+    URL: https://www.amazon.com/Lenovo-Ideapad-2024-Premium-HubxcelAccessory/dp/B0CR8XGCV...
+-------------------------------------------------------------------------------------------
+167. [34mAcer Aspire 5 Slim Laptop, 15.6 inches[0m
+    Info: Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver
+    Price: 435.0 USD
+    URL: https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36...
+-------------------------------------------------------------------------------------------
+168. [34mDell Optiplex 7040 Business SFF Small[0m
+    Info: Computer Tower PC (Intel Core i5-6500, 16GB Ram, 256GB SSD, DVD-RW, WiFi) Win 10 Pro (Renewed)
+    Price: 109.99 USD
+    URL: https://www.amazon.com/Dell-Latitude-Business-Certified-Refurbished/dp/B07K6YG7Y...
+-------------------------------------------------------------------------------------------
+169. [34mDell OptiPlex 7020 Desktop Computer, i7[0m
+    Info: 32GB Ram New 2TB SSD, Intel Quad Core 4790 up to 4.0GHz, AC8260 Built-in WiFi 5, Dual Monitor Supported, DVD-RW HDMI Windows 10 Pro (Renewed)
+    Price: 249.99 USD
+    URL: https://www.amazon.com/Dell-OptiPlex-7020-Computer-Supported/dp/B0B5916YP4/ref=s...
+-------------------------------------------------------------------------------------------
+170. [34m24” Computers, N5095 Quad-Core Desktop[0m
+    Info: Computer with Camera, 8G Ram 512G SSD IPS HD Display, WiFi BT for Home Entertainment Business Office White
+    Price: 305.99 USD
+    URL: https://www.amazon.com/EUISHIHUA-Computers-Quad-Core-Computer-Entertainment/dp/B...
+-------------------------------------------------------------------------------------------
+171. [34mDell PC Treasure Box RGB Desktop Intel[0m
+    Info: Computer Quad Core I5 up to 3.6G, 8G RAM, 256G SSD, WiFi & Bluetooth, RGB Gaming PC Keyboard & Mouse, DVD, Windows 10 Pro (Renewed) (Diamond Black)
+    Price: 139.99 USD
+    URL: https://www.amazon.com/Dell-Treasure-Desktop-Computer-Bluetooth/dp/B0BBVK3B39/re...
+-------------------------------------------------------------------------------------------
+172. [34mHP EliteDesk 800 G1 USFF Desktop PC -[0m
+    Info: Intel Core i5-4570S 2.9GHz 8GB 500GB HDD DVDRW Windows 10 Professional (Renewed)
+    Price: 79.99 USD
+    URL: https://www.amazon.com/HP-EliteDesk-800-G1-Desktop/dp/B0733P5MKM/ref=sr_1_18
+-------------------------------------------------------------------------------------------
+173. [34mDELL Optiplex 7010 Desktop Computer -[0m
+    Info: Intel Core i5 3.6GHz, 16GB DDR3, New 500GB SSD, Windows 10 Pro 64-Bit, WiFi, USB 3.0, DVDRW, 2X Display Port (Renewed)']
+    Price: 111.99 USD
+    URL: https://www.amazon.com/Dell-Optiplex-7010-Desktop-Computer/dp/B07NSG62QX/ref=sr_...
+-------------------------------------------------------------------------------------------
+174. [34mDell Optiplex 7020 Desktop Computer, 32[0m
+    Info: Intel Quad-Core i7-4770-3.4GHz, GB RAM, 512GB SSD, DVD, USB 3.0, WiFi, HDMI, Windows 10 Pro (Renewed)
+    Price: 161.19 USD
+    URL: https://www.amazon.com/Dell-Optiplex-Computer-Quad-Core-i7-4770-3-4GHz/dp/B07TWJ...
+-------------------------------------------------------------------------------------------

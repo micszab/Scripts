@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 require 'nokogiri'
 require 'open-uri'
 require 'sequel'
@@ -43,7 +43,7 @@ def process_product_cards(doc)
     url = extract_url(product_card)
 
     # Only save if the product is valid (including URL check)
-    if valid_product?(title, price, url)
+    if valid_product(title, price, url)
       save_product(title, price, url)
     else
       puts "Skipping invalid product: #{title.inspect} - URL: #{url.inspect}"
@@ -51,14 +51,33 @@ def process_product_cards(doc)
   end
 end
 
-def valid_product?(title, price, url)
-  ![title, price, url].any?(&:nil?) && 
-  title != 'No title' && 
-  !url.to_s.empty? && 
-  price.to_f > 0 && 
-  !url.to_s.include?('/sspa/click') && 
-  !url.to_s.include?('/gp/slredirect/') && 
-  !url.to_s.include?('/ad/dp/')
+def valid_product(title, price, url)
+  if [title, price, url].any?(&:nil?)
+    puts "Skipping: Missing data -> Title: #{title.inspect}, Price: #{price.inspect}, URL: #{url.inspect}"
+    return false
+  end
+
+  if title == 'No title'
+    puts "Skipping: No valid title -> #{url}"
+    return false
+  end
+
+  if url.to_s.empty?
+    puts "Skipping: No URL"
+    return false
+  end
+
+  if price.to_f <= 0
+    puts "Skipping: Price is 0 or missing -> #{title}"
+    return false
+  end
+
+  if url.to_s.include?('/sspa/click') || url.to_s.include?('/gp/slredirect/') || url.to_s.include?('/ad/dp/')
+    puts "Skipping: Likely an ad or promotional link -> #{url}"
+    return false
+  end
+
+  true
 end
 
 def extract_title(product_card)
@@ -95,18 +114,50 @@ def save_product(title, price, url)
 end
 
 def display_products
-  puts "Products saved in the database:"
-  Product.each do |product|
-    puts "Product: #{product.title}"
-    puts "Price: #{product.price} USD"
-    puts "URL: #{product.url}"
-    puts "-" * 10
+  puts "\nProducts saved in the database:\n\n"
+  
+  Product.each_with_index do |product, index|
+    short_title, info = shorten_title(product.title)
+
+    puts "#{index + 1}. \e[34m#{short_title}\e[0m" # Dark Blue title
+    puts "    Info: #{info}" unless info.empty?
+    puts "    Price: #{product.price} USD"
+    puts "    URL: #{truncate_url(product.url)}"
+    puts "-" * 91
   end
 end
 
+# Helper method to shorten long URLs
+def truncate_url(url, max_length = 80)
+  return url if url.length <= max_length
+  "#{url[0...max_length]}..."
+end
+
+def shorten_title(title, max_length = 40)
+  return [title, ""] if title.length <= max_length
+
+  words = title.split
+  short_title = ""
+  info = []
+
+  words.each do |word|
+    if (short_title.length + word.length + 1) <= max_length
+      short_title += " #{word}"
+    else
+      info << word
+    end
+  end
+
+  [short_title.strip, info.join(" ")]
+end
+
 def prompt_for_keyword
-  puts 'Enter a keyword to search for products on Amazon:'
-  keyword = gets.chomp
+  if ARGV.empty?
+    puts 'Enter a keyword to search for products on Amazon:'
+    gets.chomp
+  else
+    ARGV.join(" ")
+  end
 end
 
 def main
